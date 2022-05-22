@@ -1,6 +1,6 @@
 BattleEffectSelf	0
 BattleEffectParty	1
-BattleEffectOther	1
+BattleEffectOther	2
 BattleEffectPvPEnemyPc	1
 
 <GamePad Settings>
@@ -161,17 +161,17 @@ PlateType	1
 PlateDispHPBar	1
 PlateDisableMaxHPBar	1
 NamePlateHpSizeType	1
-NamePlateColorSelf	4287652066
-NamePlateEdgeSelf	4280223559
+NamePlateColorSelf	4278223103
+NamePlateEdgeSelf	4278201434
 NamePlateDispTypeSelf	0
 NamePlateNameTypeSelf	0
 NamePlateHpTypeSelf	2
-NamePlateColorSelfBuddy	4292917503
-NamePlateEdgeSelfBuddy	4280747584
+NamePlateColorSelfBuddy	4282964140
+NamePlateEdgeSelfBuddy	4279781177
 NamePlateDispTypeSelfBuddy	2
 NamePlateHpTypeSelfBuddy	2
-NamePlateColorSelfPet	4292917503
-NamePlateEdgeSelfPet	4280747584
+NamePlateColorSelfPet	4282964140
+NamePlateEdgeSelfPet	4279781177
 NamePlateDispTypeSelfPet	2
 NamePlateHpTypeSelfPet	2
 NamePlateColorParty	4294942528
@@ -183,8 +183,8 @@ NamePlateDispTypePartyPet	0
 NamePlateHpTypePartyPet	2
 NamePlateDispTypePartyBuddy	2
 NamePlateHpTypePartyBuddy	2
-NamePlateColorAlliance	4282964140
-NamePlateEdgeAlliance	4279781177
+NamePlateColorAlliance	4284917503
+NamePlateEdgeAlliance	4278201434
 NamePlateDispTypeAlliance	0
 NamePlateNameTypeAlliance	0
 NamePlateHpTypeAlliance	2
@@ -235,8 +235,8 @@ NamePlateNameTitleTypeParty	1
 NamePlateNameTitleTypeAlliance	1
 NamePlateNameTitleTypeOther	1
 NamePlateNameTitleTypeFriend	1
-NamePlateColorFriend	4278223103
-NamePlateColorFriendEdge	4278201434
+NamePlateColorFriend	4287652066
+NamePlateColorFriendEdge	4280223559
 NamePlateDispTypeFriend	0
 NamePlateNameTypeFriend	0
 NamePlateHpTypeFriend	2
