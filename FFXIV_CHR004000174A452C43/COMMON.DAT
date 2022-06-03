@@ -17,9 +17,9 @@ LipMotionType	1
 FirstPersonDefaultYAngle	0.000000
 FirstPersonDefaultZoom	0.780000
 FirstPersonDefaultDistance	1.500000
-ThirdPersonDefaultYAngle	-0.349066
+ThirdPersonDefaultYAngle	-1.260828
 ThirdPersonDefaultZoom	0.780000
-ThirdPersonDefaultDistance	6.000000
+ThirdPersonDefaultDistance	2.097880
 LockonDefaultYAngle	-0.349066
 LockonDefaultZoom	0.610000
 LockonDefaultZoom	6.000000
@@ -174,8 +174,8 @@ NamePlateColorSelfPet	4282964140
 NamePlateEdgeSelfPet	4279781177
 NamePlateDispTypeSelfPet	2
 NamePlateHpTypeSelfPet	2
-NamePlateColorParty	4294942528
-NamePlateEdgeParty	4282392576
+NamePlateColorParty	4282964140
+NamePlateEdgeParty	4279781177
 NamePlateDispTypeParty	0
 NamePlateNameTypeParty	0
 NamePlateHpTypeParty	2
