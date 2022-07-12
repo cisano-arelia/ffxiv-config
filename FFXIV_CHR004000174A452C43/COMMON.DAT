@@ -66,7 +66,7 @@ TimeLocal	1
 TimeServer	1
 ActiveLS_H	4325376
 ActiveLS_L	62579
-HotbarLock	1
+HotbarLock	0
 HotbarDispRecastTime	1
 HotbarCrossContentsActionEnableInput	1
 ExHotbarChangeHotbar1	1
@@ -296,8 +296,8 @@ IsLogParty	1
 LogParty	0
 IsLogAlliance	1
 LogAlliance	0
-IsLogFc	0
-LogFc	0
+IsLogFc	1
+LogFc	1
 IsLogPvpTeam	0
 LogPvpTeam	0
 IsLogLs1	0
@@ -350,7 +350,7 @@ LogPermeationRateLog4	50
 LogFlyingHeightMaxErrDisp	1
 LogCrossWorldName	1
 LogDragResize	1
-ChatType	19
+ChatType	2
 ShopSell	0
 ColorSay	4294506744
 ColorShout	4294944358
