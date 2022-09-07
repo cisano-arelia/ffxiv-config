@@ -63,7 +63,7 @@ TimeMode	2
 Time12	0
 TimeEorzea	1
 TimeLocal	1
-TimeServer	0
+TimeServer	1
 ActiveLS_H	4325376
 ActiveLS_L	62579
 HotbarLock	1
@@ -175,8 +175,8 @@ NamePlateColorSelfPet	4282964140
 NamePlateEdgeSelfPet	4279781177
 NamePlateDispTypeSelfPet	2
 NamePlateHpTypeSelfPet	2
-NamePlateColorParty	4282964140
-NamePlateEdgeParty	4279781177
+NamePlateColorParty	4291202303
+NamePlateEdgeParty	4280485440
 NamePlateDispTypeParty	0
 NamePlateNameTypeParty	0
 NamePlateHpTypeParty	2
@@ -184,8 +184,8 @@ NamePlateDispTypePartyPet	0
 NamePlateHpTypePartyPet	2
 NamePlateDispTypePartyBuddy	2
 NamePlateHpTypePartyBuddy	2
-NamePlateColorAlliance	4285319408
-NamePlateEdgeAlliance	4278206540
+NamePlateColorAlliance	4284545152
+NamePlateEdgeAlliance	4278342656
 NamePlateDispTypeAlliance	0
 NamePlateNameTypeAlliance	0
 NamePlateHpTypeAlliance	2
